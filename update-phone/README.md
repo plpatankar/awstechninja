@@ -11,7 +11,7 @@ export AWS_SESSION_TOKEN= < SESSION_TOKEN >
  
 Replace following information in the script as per your details – 
  
-NewPhoneNumber='<New Phone number>'
-RoleName='<Role Name to assume into target account>'
+NewPhoneNumber='New Phone number'
+RoleName='Role Name to assume into target account'
 
 Log files account-contact-info.logs and updated-account.logs will be created by script for logging old contact information and list of accounts which are updated by script to track. 
